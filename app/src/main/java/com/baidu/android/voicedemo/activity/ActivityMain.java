@@ -37,7 +37,7 @@ public class ActivityMain extends ListActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
+        //保存应用的一些常用配置，比如Activity状态，Activity暂停时，将此activity的状态保存到SharedPereferences中
         SharedPreferences sp = PreferenceManager.getDefaultSharedPreferences(this);
         sp.edit().remove(SpeechConstant.IN_FILE).commit(); // infile参数用于控制识别一个PCM音频流（或文件），每次进入程序都将该值清除，以避免体验时没有使用录音的问题
         setListAdapter(new SimpleAdapter(this, getData(), android.R.layout.simple_list_item_1,
@@ -60,7 +60,7 @@ public class ActivityMain extends ListActivity {
         mainIntent.addCategory(CATEGORY_SAMPLE_CODE);
 
         PackageManager pm = getPackageManager();
-        List<ResolveInfo> list = pm.queryIntentActivities(mainIntent, 0);
+        List<ResolveInfo> list = pm.queryIntentActivities(mainIntent, 0);//获取manifest中IntentActivities中的数量
 
         if (null == list)
             return myData;
@@ -74,7 +74,7 @@ public class ActivityMain extends ListActivity {
             }
             CharSequence labelSeq = info.loadLabel(pm);
             CharSequence description = null;
-            if (info.activityInfo.descriptionRes != 0) {
+            if (info.activityInfo.descriptionRes != 0) {//将获取到的activities都包装进charSequence
                 description = pm.getText(info.activityInfo.packageName,
                         info.activityInfo.descriptionRes, null);
             }
@@ -110,7 +110,7 @@ public class ActivityMain extends ListActivity {
     protected void onListItemClick(ListView l, View v, int position, long id) {
         Map<String, Object> map = (Map<String, Object>) l.getItemAtPosition(position);
 
-        Intent intent = (Intent) map.get("intent");
+        Intent intent = (Intent) map.get("intent");//通过intent跳转进入每个功能子页
         startActivity(intent);
     }
 
