@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\libs\bdasr_V3_20170801_60da871.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="baed09882e710e648fbbd0ae77604a2b20e506c8">
+        <dex dex="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\pre-dexed\debug\bdasr_V3_20170801_60da871_d4b65dd04520fcbea8ca694d084a385d6fa63365.jar" />
+    </item>
+
+</items>

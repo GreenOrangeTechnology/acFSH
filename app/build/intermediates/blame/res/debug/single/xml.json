@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Share\\bd_speech_sdk_asr_v3.0.3.20170801_60da871\\app\\build\\intermediates\\res\\merged\\debug\\xml\\setting_all.xml",
+        "source": "D:\\Share\\bd_speech_sdk_asr_v3.0.3.20170801_60da871\\app\\src\\main\\res\\xml\\setting_all.xml"
+    },
+    {
+        "merged": "D:\\Share\\bd_speech_sdk_asr_v3.0.3.20170801_60da871\\app\\build\\intermediates\\res\\merged\\debug\\xml\\setting_nlu.xml",
+        "source": "D:\\Share\\bd_speech_sdk_asr_v3.0.3.20170801_60da871\\app\\src\\main\\res\\xml\\setting_nlu.xml"
+    },
+    {
+        "merged": "D:\\Share\\bd_speech_sdk_asr_v3.0.3.20170801_60da871\\app\\build\\intermediates\\res\\merged\\debug\\xml\\setting_offline.xml",
+        "source": "D:\\Share\\bd_speech_sdk_asr_v3.0.3.20170801_60da871\\app\\src\\main\\res\\xml\\setting_offline.xml"
+    },
+    {
+        "merged": "D:\\Share\\bd_speech_sdk_asr_v3.0.3.20170801_60da871\\app\\build\\intermediates\\res\\merged\\debug\\xml\\setting_online.xml",
+        "source": "D:\\Share\\bd_speech_sdk_asr_v3.0.3.20170801_60da871\\app\\src\\main\\res\\xml\\setting_online.xml"
+    }
+]
