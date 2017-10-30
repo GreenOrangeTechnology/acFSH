@@ -44,6 +44,10 @@
         "source": "C:\\Users\\Jerry\\.android\\build-cache\\48002762fc2d7283db5bc58b2eadd94b184892ae\\output\\res\\layout\\notification_template_lines_media.xml"
     },
     {
+        "merged": "D:\\Share\\bd_speech_sdk_asr_v3.0.3.20170801_60da871\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_activity.xml",
+        "source": "D:\\Share\\bd_speech_sdk_asr_v3.0.3.20170801_60da871\\app\\src\\main\\res\\layout\\main_activity.xml"
+    },
+    {
         "merged": "D:\\Share\\bd_speech_sdk_asr_v3.0.3.20170801_60da871\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
         "source": "C:\\Users\\Jerry\\.android\\build-cache\\48002762fc2d7283db5bc58b2eadd94b184892ae\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
     },

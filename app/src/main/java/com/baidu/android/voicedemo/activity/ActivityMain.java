@@ -8,10 +8,12 @@ import android.content.pm.ResolveInfo;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.view.View;
+import android.widget.Button;
 import android.widget.ListView;
 import android.widget.SimpleAdapter;
 
 import com.baidu.speech.asr.SpeechConstant;
+import com.baidu.speech.recognizerdemo.R;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -33,19 +35,23 @@ import java.util.Map;
  */
 public class ActivityMain extends ListActivity {
     public static final String CATEGORY_SAMPLE_CODE = "com.baidu.speech.recognizerdemo.intent.category.SAMPLE_CODE";
-
+    Button btButton;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         //保存应用的一些常用配置，比如Activity状态，Activity暂停时，将此activity的状态保存到SharedPereferences中
         SharedPreferences sp = PreferenceManager.getDefaultSharedPreferences(this);
         sp.edit().remove(SpeechConstant.IN_FILE).commit(); // infile参数用于控制识别一个PCM音频流（或文件），每次进入程序都将该值清除，以避免体验时没有使用录音的问题
+
         setListAdapter(new SimpleAdapter(this, getData(), android.R.layout.simple_list_item_1,
                 new String[]{
                         "title"
                 }, new int[]{
                 android.R.id.text1
         }));
+
+//        setContentView(R.layout.main_activity);
+//        btButton = (Button)findViewById(R.id.bt_button);
     }
 
     /**

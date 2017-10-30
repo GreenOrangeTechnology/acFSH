@@ -28,6 +28,7 @@ import java.util.Map;
 
 /**
  * Created by fujiayi on 2017/8/15.
+ * Change & usrd by jkCoid in 2017.10.30
  */
 
 public class ActivityMiniRecog extends AppCompatActivity implements EventListener {
@@ -49,7 +50,7 @@ public class ActivityMiniRecog extends AppCompatActivity implements EventListene
      * 测试参数填在这里
      */
     private void start() {
-        txtLog.setText("");
+        txtLog.setText("邝嘉伟测试");
         Map<String, Object> params = new LinkedHashMap<String, Object>();
         String event = null;
         event = SpeechConstant.ASR_START; // 替换成测试的event
