@@ -1,5 +1,6 @@
 # acFSH 小智智能家居Android
 ## 使用说明
+android 8.0最新api https://developer.android.com/about/versions/oreo/android-8.0.html
 1.开发环境 AndroidStudio 3.0  , JDK 1.8.0
 2.基于百度语音识别bd_speech_sdk_asr_v3.0.3.20170801_60da871  demo
 3.下载项目后导入as,真机调试时数据线连接手机
@@ -11,6 +12,8 @@ V1.0.0 1.实现简单的语音识别功能,能够对自定义的语音库和唤�
 V1.1.0 4.蓝牙连接的实现
 
 ## 功能需求说明
+单元测试 https://jingyan.baidu.com/article/fea4511a10dd5af7ba912555.html
+http://m.blog.csdn.net/pdskyzcc1/article/details/50953083
 语音识别(分支1:解析->相关操作->蓝牙等其它模块->实现控制目的;分支2:合成->音效反馈->实现良好交互作用)
 蓝牙控制设计
 红外控制设计
