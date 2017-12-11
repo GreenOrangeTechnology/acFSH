@@ -1929,6 +1929,7 @@ containing a value of this type.
         public static final int cancel_action=0x7f0d0060;
         public static final int checkbox=0x7f0d003e;
         public static final int chronometer=0x7f0d0068;
+        public static final int close_wifi=0x7f0d0074;
         public static final int collapseActionView=0x7f0d001e;
         public static final int contentPanel=0x7f0d0031;
         public static final int custom=0x7f0d0038;
@@ -1961,6 +1962,7 @@ containing a value of this type.
         public static final int notification_background=0x7f0d006b;
         public static final int notification_main_column=0x7f0d0065;
         public static final int notification_main_column_container=0x7f0d0064;
+        public static final int open_wifi=0x7f0d0073;
         public static final int parentPanel=0x7f0d0030;
         public static final int progress_circular=0x7f0d0005;
         public static final int progress_horizontal=0x7f0d0006;
@@ -2071,6 +2073,7 @@ containing a value of this type.
         public static final int select_dialog_multichoice_material=0x7f030030;
         public static final int select_dialog_singlechoice_material=0x7f030031;
         public static final int support_simple_spinner_dropdown_item=0x7f030032;
+        public static final int wifi_control=0x7f030033;
     }
     public static final class raw {
         public static final int bdspeech_recognition_cancel=0x7f060000;

@@ -1,0 +1,4 @@
+#Sun Dec 10 18:54:27 CST 2017
+base.0=E\:\\github\\acFSH\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
+renamed.0=classes.dex
+file.0=E\:\\github\\acFSH\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex

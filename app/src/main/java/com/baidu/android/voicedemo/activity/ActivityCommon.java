@@ -29,13 +29,9 @@ public abstract class ActivityCommon extends AppCompatActivity {
     protected Button btn;
     protected Button setting;
     protected TextView txtResult;
-
     protected Handler handler;
-
     protected String DESC_TEXT;
-
     protected int layout = R.layout.common;
-
     protected Class settingActivityClass = null;
 
     @Override
@@ -62,9 +58,7 @@ public abstract class ActivityCommon extends AppCompatActivity {
         initRecog();
     }
 
-
     protected abstract void initRecog();
-
     protected void handleMsg(Message msg) {
         if (txtLog != null && msg.obj != null) {
             txtLog.append(msg.obj.toString() + "\n");
@@ -87,7 +81,6 @@ public abstract class ActivityCommon extends AppCompatActivity {
                 }
             });
         }
-
     }
 
     /**
@@ -102,7 +95,6 @@ public abstract class ActivityCommon extends AppCompatActivity {
         };
 
         ArrayList<String> toApplyList = new ArrayList<String>();
-
         for (String perm :permissions){
             if (PackageManager.PERMISSION_GRANTED != ContextCompat.checkSelfPermission(this, perm)) {
                 toApplyList.add(perm);
@@ -114,7 +106,6 @@ public abstract class ActivityCommon extends AppCompatActivity {
         if (!toApplyList.isEmpty()){
             ActivityCompat.requestPermissions(this, toApplyList.toArray(tmpList), 123);
         }
-
     }
 
     @Override
@@ -133,6 +124,5 @@ public abstract class ActivityCommon extends AppCompatActivity {
                 .penaltyLog()
                 .penaltyDeath()
                 .build());
-
     }
 }

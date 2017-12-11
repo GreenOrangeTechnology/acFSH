@@ -1,4 +1,7 @@
-#Mon Oct 30 10:03:46 CST 2017
-base.0=D\:\\Share\\bd_speech_sdk_asr_v3.0.3.20170801_60da871\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-renamed.0=classes.dex
-file.0=D\:\\Share\\bd_speech_sdk_asr_v3.0.3.20170801_60da871\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+#Sun Dec 10 23:53:14 CST 2017
+base.0=E\:\\github\\acFSH\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_af92db3ba7202145813f77895be6ad4d8e22f081
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\github\\acFSH\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9ee4559469ca1ae6019747a3f8e0e0bcacf0a683\\classes.dex
+base.1=E\:\\github\\acFSH\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9ee4559469ca1ae6019747a3f8e0e0bcacf0a683
+file.0=E\:\\github\\acFSH\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_af92db3ba7202145813f77895be6ad4d8e22f081\\classes.dex
