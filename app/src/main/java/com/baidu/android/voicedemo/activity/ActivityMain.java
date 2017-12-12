@@ -65,7 +65,7 @@ public class ActivityMain extends ListActivity {
         Intent mainIntent = new Intent(Intent.ACTION_MAIN, null);
         mainIntent.addCategory(CATEGORY_SAMPLE_CODE);
 
-        PackageManager pm = getPackageManager();
+        PackageManager pm = getPackageManager();//IntentActivities怎么封装?
         List<ResolveInfo> list = pm.queryIntentActivities(mainIntent, 0);//获取manifest中IntentActivities中的数量
 
         if (null == list)

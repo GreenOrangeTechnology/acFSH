@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/acFSH.iml" filepath="$PROJECT_DIR$/acFSH.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bd_speech_sdk_asr_v3.0.3.20170801_60da871.iml" filepath="$PROJECT_DIR$/bd_speech_sdk_asr_v3.0.3.20170801_60da871.iml" />
     </modules>
   </component>
 </project>

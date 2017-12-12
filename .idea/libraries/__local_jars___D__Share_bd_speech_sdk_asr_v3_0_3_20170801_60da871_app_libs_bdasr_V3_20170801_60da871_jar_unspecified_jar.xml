@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="__local_jars__:D.\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\libs\bdasr_V3_20170801_60da871.jar:unspecified@jar">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/app/libs/bdasr_V3_20170801_60da871.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

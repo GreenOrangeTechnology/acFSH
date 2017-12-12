@@ -2,13 +2,121 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\libs\bdasr_V3_20170801_60da871.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\d4f74a45c41fc1d54028f9719b37ecb4b28186b5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\github\acFSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2bca007ca19b0abad217b320f794e1953800326\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\50100735c8670be43d7e246a5ef8e9ac129d47de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\github\acFSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd417fac412c70a7ea08b6ae6a4ad44236c4cce6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\b786ba34bdbc8bbc4684ac297f11ba45902e8a15\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\github\acFSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_15729b7a49b5e85d72fb73c9950c062eb524c257\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github\acFSH\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b33ede72dc5a06e4d31b25d9addae711244b6027">
+        <dex dex="E:\github\acFSH\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9ee4559469ca1ae6019747a3f8e0e0bcacf0a683\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\f6e17956fe2ac1ecfd4dc1e9b6dd6f4593cd1b5b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\github\acFSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ee355501dfbb6c189d17b3ce67e2da76ba93cab2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\5a28124b338e39ee4c4b65cef5c4bc0609c05723\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\github\acFSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8f59e515b718e51e849dd4ad62285d81746f8598\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\9ec423eca4235077eabcb3aa6594c5e65dbf9fa1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\github\acFSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c43cb04b478e0d8190959639be98b9c28cd2966b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\github\acFSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_00a790885d947ca2d9e16dabd8a0d435e9287d14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\009957d7ded9a927d0eaf9308e6f290c308c2fda\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\github\acFSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8bfe728b3b1ac0bd4e9ee531c2caaddbbe6653e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github\acFSH\app\libs\bdasr_V3_20170801_60da871.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="baed09882e710e648fbbd0ae77604a2b20e506c8">
-        <dex dex="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\pre-dexed\debug\bdasr_V3_20170801_60da871_d4b65dd04520fcbea8ca694d084a385d6fa63365.jar" />
+        <dex dex="E:\github\acFSH\app\build\intermediates\transforms\dex\debug\folders\1000\2\bdasr_V3_20170801_60da871_8f053524744851c1df84f78dcb09cefe04cbd372\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\87039a29a145e59ff7e1b8f8f94ec42885d3e994\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\github\acFSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_85d165ef304454d1aab1a49e467230468407c8f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github\acFSH\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\github\acFSH\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_af92db3ba7202145813f77895be6ad4d8e22f081\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\0c78ffb22af2de58c253060942b60ad363e2e0aa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\github\acFSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bc18c913cc2d0c4f565b8c93cf669ec31dad3c8e\classes.dex" />
     </item>
 
 </items>

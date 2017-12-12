@@ -30,7 +30,6 @@ import java.util.Map;
  * Created by fujiayi on 2017/8/15.
  * Change & usrd by jkCoid in 2017.10.30
  */
-
 public class ActivityMiniRecog extends AppCompatActivity implements EventListener {
     protected TextView txtLog;
     protected TextView txtResult;
@@ -50,11 +49,10 @@ public class ActivityMiniRecog extends AppCompatActivity implements EventListene
      * 测试参数填在这里
      */
     private void start() {
-        txtLog.setText("邝嘉伟测试");
+        txtLog.setText("jkCodic测试");
         Map<String, Object> params = new LinkedHashMap<String, Object>();
         String event = null;
         event = SpeechConstant.ASR_START; // 替换成测试的event
-
         params.put(SpeechConstant.ACCEPT_AUDIO_VOLUME, false);
         params.put(SpeechConstant.VAD,SpeechConstant.VAD_DNN);
         if (enableOffline){
@@ -72,7 +70,6 @@ public class ActivityMiniRecog extends AppCompatActivity implements EventListene
 
     private void stop() {
         asr.send(SpeechConstant.ASR_STOP, null, null, 0, 0);
-
         //日志输出 http://blog.csdn.net/luoshengyang/article/details/6581828
         //已经开启的应用跳不过去 跳后不杀死仍停留(返回)  ionic应用包名
         ComponentName componentName = new ComponentName("com.tencent.mm","com.tencent.mm.ui.LauncherUI");
@@ -88,7 +85,7 @@ public class ActivityMiniRecog extends AppCompatActivity implements EventListene
         //try {
             //intent =packageManager.getLaunchIntentForPackage("com.tencent.mm");
         //} catch (PackageManager.NameNotFoundException e) {
-            //private static final String TAG = "MainActivity"
+            //private static final String TAG = "ActivityMiniRecog"
          //   Log.i(TAG, e.toString());
        // }
         //startActivity(intent);
@@ -123,7 +120,6 @@ public class ActivityMiniRecog extends AppCompatActivity implements EventListene
         asr = EventManagerFactory.create(this, "asr");//识别or唤醒?
         asr.registerListener(this); //  EventListener 中 onEvent方法
         btn.setOnClickListener(new View.OnClickListener() {
-
             @Override
             public void onClick(View v) {
                 start();
@@ -199,6 +195,7 @@ public class ActivityMiniRecog extends AppCompatActivity implements EventListene
         otherBtn = (Button) findViewById(R.id.btn_stop);
         txtLog.setText(DESC_TEXT + "\n");
     }
+
     /**
      * android 6.0 以上需要动态申请权限
      */
@@ -214,7 +211,6 @@ public class ActivityMiniRecog extends AppCompatActivity implements EventListene
             if (PackageManager.PERMISSION_GRANTED != ContextCompat.checkSelfPermission(this, perm)) {
                 toApplyList.add(perm);
                 //进入到这里代表没有权限.
-
             }
         }
         String tmpList[] = new String[toApplyList.size()];

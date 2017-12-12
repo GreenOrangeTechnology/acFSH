@@ -11,9 +11,17 @@
         android:name="android.test.InstrumentationTestRunner"
         android:label="Tests for com.baidu.speech.recognizerdemo"
         android:targetPackage="com.baidu.speech.recognizerdemo" />
+
+    //网络相关
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" /><!--多播-->
+    <uses-permission android:name="android.permission.WAKE_LOCK" /><!--wifi lock-->
     <!-- begin: baidu speech sdk  权限 -->
     <uses-permission android:name="android.permission.RECORD_AUDIO" />
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -29,7 +37,6 @@
         android:icon="@drawable/ic_launcher2"
         android:label="@string/app_name"
         android:theme="@style/AppTheme">
-
         <!--
             离线功能即离线命令词及唤醒词功能开启需要正式授权，正式授权完全由SDK自动管理：
             1. 在百度语音开放平台注册应用，http://yuyin.baidu.com/app
@@ -138,6 +145,17 @@
             android:name="com.baidu.android.voicedemo.activity.mini.ActivityMiniWakeUp"
             android:configChanges="orientation|keyboardHidden|screenLayout"
             android:label="精简版唤醒词"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="com.baidu.speech.recognizerdemo.intent.category.SAMPLE_CODE" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.baidu.android.voicedemo.activity.ActivityWifiControl"
+            android:configChanges="orientation|keyboardHidden|screenLayout"
+            android:label="Wifi控制"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

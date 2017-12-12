@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\github\\acFSH\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bd_asr_mic.png",
+        "source": "E:\\github\\acFSH\\app\\src\\main\\res\\drawable-xhdpi\\bd_asr_mic.png"
+    },
+    {
         "merged": "D:\\Share\\bd_speech_sdk_asr_v3.0.3.20170801_60da871\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bd_asr_mic.png",
         "source": "D:\\Share\\bd_speech_sdk_asr_v3.0.3.20170801_60da871\\app\\src\\main\\res\\drawable-xhdpi\\bd_asr_mic.png"
     },
@@ -12,7 +16,19 @@
         "source": "D:\\Share\\bd_speech_sdk_asr_v3.0.3.20170801_60da871\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     },
     {
+        "merged": "E:\\github\\acFSH\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bd_asr_wave.png",
+        "source": "E:\\github\\acFSH\\app\\src\\main\\res\\drawable-xhdpi\\bd_asr_wave.png"
+    },
+    {
+        "merged": "E:\\github\\acFSH\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher2.png",
+        "source": "E:\\github\\acFSH\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher2.png"
+    },
+    {
         "merged": "D:\\Share\\bd_speech_sdk_asr_v3.0.3.20170801_60da871\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bd_asr_wave.png",
         "source": "D:\\Share\\bd_speech_sdk_asr_v3.0.3.20170801_60da871\\app\\src\\main\\res\\drawable-xhdpi\\bd_asr_wave.png"
+    },
+    {
+        "merged": "E:\\github\\acFSH\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "E:\\github\\acFSH\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     }
 ]
