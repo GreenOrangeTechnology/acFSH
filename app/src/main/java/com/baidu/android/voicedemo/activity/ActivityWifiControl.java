@@ -9,34 +9,37 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
+import android.view.Window;
 import android.widget.Button;
+import android.widget.CompoundButton;
+import android.widget.RadioGroup;
 import android.widget.Toast;
 
 import com.baidu.speech.EventListener;
-import com.baidu.speech.EventManagerFactory;
-import com.baidu.speech.asr.SpeechConstant;
 import com.baidu.speech.recognizerdemo.R;
+import com.jerry.bluetooth.MainActivity;
 
 import java.util.List;
 
 /**
- * Created by Administrator on 2017/12/10.
+ * Created by jkCodi on 2017/12/11.
  */
 
 public class ActivityWifiControl extends AppCompatActivity implements EventListener {
-    Context context;//上下文对象
+    Context context = this;//上下文对象
+    WifiManager.WifiLock wifiLock;//息屏2分钟后自动关,除非锁定
+
     private List<ScanResult> scanResults;// 扫描出的网络连接列表
     private List<WifiConfiguration> wifiConfigurations;// 网络连接列表
-    //WifiManager.WifiLock wifiLock;//息屏2分钟后自动关,除非锁定
-
-    protected Button open_wifi_button,close_wifi_button;
     private WifiManager wifiManager;
-    private WifiInfo wifiInfo;//
+    private WifiInfo wifiInfo;
     private static final String TAG = "ActivityWifiControl";
+    protected Button open_wifi_button,close_wifi_button,wifi_toggle_button;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        requestWindowFeature(Window.FEATURE_NO_TITLE);//隐藏标题栏
         setContentView(R.layout.wifi_control);
 
         wifiManager = (WifiManager)context.getSystemService(Context.WIFI_SERVICE);
@@ -44,21 +47,31 @@ public class ActivityWifiControl extends AppCompatActivity implements EventListe
 
         open_wifi_button = (Button)findViewById(R.id.open_wifi);
         close_wifi_button = (Button)findViewById(R.id.close_wifi);
+        wifi_toggle_button = (Button)findViewById(R.id.wifiToggleButton);
         open_wifi_button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 openWifi(context);//要将第三方设备与路由器对接
+
+                // 显示所有wifi
+
+                // 点击出现连接界面
+                // 使第三方硬件可连接wifi列表
+                // 再回来自己连接回路由器
+                // 发送命令的接口-电脑做测试
             }
         });
         close_wifi_button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                wifiManager.setWifiEnabled(false);//关闭wifi网卡
                 closeWifi(context);
             }
         });
+        //wifi_toggle_button.setOnCheckedChangeListener
+                //http://blog.csdn.net/coder_pig/article/details/47035699
+
         //initView();
-        //initPermission();
+        //initPermission();//动态申请权限
 //        asr = EventManagerFactory.create(this, "asr");//识别or唤醒?
 //        asr.registerListener(this); //  EventListener 中 onEvent方法
 //        btn.setOnClickListener(new View.OnClickListener() {
@@ -89,8 +102,9 @@ public class ActivityWifiControl extends AppCompatActivity implements EventListe
     public void openWifi(Context context){
         if(!wifiManager.isWifiEnabled()){
             wifiManager.setWifiEnabled(true);//打开wifi网卡
+            Toast.makeText(context,"wifi正在启动...",Toast.LENGTH_SHORT).show();
         }else if(wifiManager.getWifiState() == wifiManager.WIFI_STATE_ENABLING){
-            Toast.makeText(context,"wifi正在启动中,稍安勿躁...",Toast.LENGTH_SHORT).show();
+            Toast.makeText(context,"wifi还在启动,稍安勿躁...",Toast.LENGTH_SHORT).show();
         }else{
             Toast.makeText(context,"wifi已经启动,不用再开啦...",Toast.LENGTH_SHORT).show();
         }
@@ -122,20 +136,20 @@ public class ActivityWifiControl extends AppCompatActivity implements EventListe
         }
     }
 
-//    public void acquireWifiLock(){//锁定wifi
-//        wifiLock.acquire();
-//    }
-//
-//    public void releaseWifiLock(){//解锁wifiLock
-//        //判断是否锁定
-//        if(wifiLock.isHeld()){
-//            wifiLock.acquire();
-//        }
-//    }
-//
-//    public void createWifiLock(){//创建一个wifiLock
-//        wifiLock = wifiManager.createWifiLock("Test");
-//    }
+    public void acquireWifiLock(){//锁定wifi
+        wifiLock.acquire();
+    }
+
+    public void releaseWifiLock(){//解锁wifiLock
+        //判断是否锁定
+        if(wifiLock.isHeld()){
+            wifiLock.acquire();
+        }
+    }
+
+    public void createWifiLock(){//创建一个wifiLock
+        wifiLock = wifiManager.createWifiLock("Test");
+    }
 
     //得到配置好的网络
     public List<WifiConfiguration> getConfiguration(){

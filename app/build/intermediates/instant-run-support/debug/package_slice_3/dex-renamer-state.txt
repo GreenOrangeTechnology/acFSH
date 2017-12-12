@@ -1,4 +1,4 @@
-#Sun Dec 10 18:54:27 CST 2017
-base.0=E\:\\github\\acFSH\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3
+#Tue Dec 12 23:17:52 CST 2017
+base.0=D\:\\Share\\bd_speech_sdk_asr_v3.0.3.20170801_60da871\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
 renamed.0=classes.dex
-file.0=E\:\\github\\acFSH\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3\\classes.dex

@@ -37,8 +37,10 @@
         android:value="25.3.1" />
 
     <application
+        android:debuggable="true"
         android:icon="@drawable/ic_launcher2"
         android:label="@string/app_name"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
 
         <!--

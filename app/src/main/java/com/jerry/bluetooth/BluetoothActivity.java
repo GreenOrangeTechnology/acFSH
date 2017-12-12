@@ -1,6 +1,5 @@
 package com.jerry.bluetooth;
 
-import android.content.Intent;
 
 /**
  * Created by Jerry on 2017-10-30.

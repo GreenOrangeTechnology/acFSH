@@ -63,7 +63,7 @@ public abstract class ActivityRecog extends ActivityCommon implements IStatus {
         myRecognizer = new MyRecognizer(this, listener);
         apiParams = getApiParams();
         status = STATUS_NONE;
-        if (enableOffline) {
+        if (enableOffline) {//如果用到离线识别的话
             myRecognizer.loadOfflineEngine(OfflineRecogParams.fetchOfflineParams());
         }
     }
@@ -77,9 +77,7 @@ public abstract class ActivityRecog extends ActivityCommon implements IStatus {
         super.onDestroy();
     }
 
-    /**
-     * 开始录音，点击“开始”按钮后调用。
-     */
+    //开始录音，点击“开始”按钮后调用
     protected void start() {
         SharedPreferences sp = PreferenceManager.getDefaultSharedPreferences(ActivityRecog.this);
         Map<String, Object> params = apiParams.fetch(sp);

@@ -24,7 +24,7 @@ import java.util.ArrayList;
  * Created by fujiayi on 2017/6/20.
  */
 
-public abstract class ActivityCommon extends AppCompatActivity {
+public abstract class ActivityCommon extends AppCompatActivity {//页面常量 设置普通界面的放置内容
     protected TextView txtLog;
     protected Button btn;
     protected Button setting;
@@ -65,13 +65,13 @@ public abstract class ActivityCommon extends AppCompatActivity {
         }
     }
 
-    protected void initView() {
+    protected void initView() {//每个页面均有
         txtResult = (TextView) findViewById(R.id.txtResult);
         txtLog = (TextView) findViewById(R.id.txtLog);
         btn = (Button) findViewById(R.id.btn);
         setting = (Button) findViewById(R.id.setting);
         txtLog.setText(DESC_TEXT + "\n");
-        if (setting != null && settingActivityClass != null) {
+        if (setting != null && settingActivityClass != null) {//点击设置按钮的跳转
             setting.setOnClickListener(new View.OnClickListener() {
 
                 @Override
@@ -83,9 +83,7 @@ public abstract class ActivityCommon extends AppCompatActivity {
         }
     }
 
-    /**
-     * android 6.0 以上需要动态申请权限
-     */
+    //android 6.0 以上需要动态申请权限   以下为安卓6.0以上设备考虑
     private void initPermission() {
         String permissions[] = {Manifest.permission.RECORD_AUDIO,
                 Manifest.permission.ACCESS_NETWORK_STATE,
