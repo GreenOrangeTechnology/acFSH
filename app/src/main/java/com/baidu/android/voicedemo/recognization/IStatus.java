@@ -4,7 +4,7 @@ package com.baidu.android.voicedemo.recognization;
  * Created by fujiayi on 2017/6/14.
  */
 
-public interface IStatus {
+public interface IStatus {//状态接口类 定义全局宏
 
     int STATUS_NONE = 2;
 

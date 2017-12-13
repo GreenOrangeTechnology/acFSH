@@ -16,7 +16,7 @@ public class ActivityAllRecog extends ActivityRecog {
     }
 
     public ActivityAllRecog() {
-        super();
+        super();//有什么作用  继承了父类的子类
         settingActivityClass = AllSetting.class;
     }
 

@@ -67,7 +67,11 @@ public class ActivityWifiControl extends AppCompatActivity implements EventListe
                 closeWifi(context);
             }
         });
+<<<<<<< HEAD
         //wifi_toggle_button.setOnCheckedChangeListener(this);
+=======
+        //wifi_toggle_button.setOnCheckedChangeListener
+>>>>>>> bbff8c2d57b380f595cfc10d9dcb005f98498f9a
                 //http://blog.csdn.net/coder_pig/article/details/47035699
 
         //initView();

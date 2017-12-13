@@ -23,9 +23,13 @@
         android:id="@+id/wifiToggleButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+<<<<<<< HEAD
         android:checked="false"
         android:textOn="wifiOff"
         android:textOff="wifiOn"
         android:text="" />
+=======
+        android:text="wifiOn" />
+>>>>>>> bbff8c2d57b380f595cfc10d9dcb005f98498f9a
 
 </LinearLayout>
