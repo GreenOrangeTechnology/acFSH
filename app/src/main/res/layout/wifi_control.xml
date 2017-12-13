@@ -19,4 +19,13 @@
         android:onClick="onClick"
         android:text="关闭wifi" />
 
+    <ToggleButton
+        android:id="@+id/wifiToggleButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checked="false"
+        android:textOn="wifiOff"
+        android:textOff="wifiOn"
+        android:text="" />
+
 </LinearLayout>

@@ -692,6 +692,7 @@ int id txtLog 0x7f0d0058
 int id txtResult 0x7f0d0056
 int id up 0x7f0d0008
 int id useLogo 0x7f0d0012
+int id wifiToggleButton 0x7f0d0075
 int id withText 0x7f0d0021
 int id wrap_content 0x7f0d0019
 int integer abc_config_activityDefaultDur 0x7f0e0000

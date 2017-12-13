@@ -2012,6 +2012,7 @@ containing a value of this type.
         public static final int txtResult=0x7f0d0056;
         public static final int up=0x7f0d0008;
         public static final int useLogo=0x7f0d0012;
+        public static final int wifiToggleButton=0x7f0d0075;
         public static final int withText=0x7f0d0021;
         public static final int wrap_content=0x7f0d0019;
     }
