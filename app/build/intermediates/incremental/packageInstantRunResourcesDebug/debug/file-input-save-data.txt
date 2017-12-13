@@ -1,23 +1,23 @@
 #Internal package file, do not edit.
-#Tue Dec 12 23:25:17 CST 2017
-2.base=D\:\\Share\\bd_speech_sdk_asr_v3.0.3.20170801_60da871\\app\\build\\intermediates\\assets\\debug
-0.path=16k_test.pcm
+#Wed Dec 13 10:18:01 CST 2017
+2.base=E\:\\github\\acFSH\\app\\build\\intermediates\\assets\\debug
+0.path=baidu_speech_grammar.bsg
 2.baseType=DIRECTORY
-3.base=D\:\\Share\\bd_speech_sdk_asr_v3.0.3.20170801_60da871\\app\\build\\intermediates\\assets\\debug
+3.base=E\:\\github\\acFSH\\app\\build\\intermediates\\assets\\debug
 2.set=ASSET
-1.path=README.txt
-4.base=D\:\\Share\\bd_speech_sdk_asr_v3.0.3.20170801_60da871\\app\\build\\intermediates\\assets\\debug
+1.path=outfile.pcm
+4.base=E\:\\github\\acFSH\\app\\build\\intermediates\\assets\\debug
 count=5
-2.path=outfile.pcm
+2.path=WakeUp.bin
 4.set=ASSET
-3.path=baidu_speech_grammar.bsg
+3.path=README.txt
 3.baseType=DIRECTORY
 1.set=ASSET
-4.path=WakeUp.bin
+4.path=16k_test.pcm
 1.baseType=DIRECTORY
-0.base=D\:\\Share\\bd_speech_sdk_asr_v3.0.3.20170801_60da871\\app\\build\\intermediates\\assets\\debug
+0.base=E\:\\github\\acFSH\\app\\build\\intermediates\\assets\\debug
 0.baseType=DIRECTORY
 3.set=ASSET
-1.base=D\:\\Share\\bd_speech_sdk_asr_v3.0.3.20170801_60da871\\app\\build\\intermediates\\assets\\debug
+1.base=E\:\\github\\acFSH\\app\\build\\intermediates\\assets\\debug
 4.baseType=DIRECTORY
 0.set=ASSET

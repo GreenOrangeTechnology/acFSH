@@ -14,6 +14,7 @@ import android.widget.Button;
 import android.widget.CompoundButton;
 import android.widget.RadioGroup;
 import android.widget.Toast;
+import android.widget.ToggleButton;
 
 import com.baidu.speech.EventListener;
 import com.baidu.speech.recognizerdemo.R;
@@ -34,7 +35,8 @@ public class ActivityWifiControl extends AppCompatActivity implements EventListe
     private WifiManager wifiManager;
     private WifiInfo wifiInfo;
     private static final String TAG = "ActivityWifiControl";
-    protected Button open_wifi_button,close_wifi_button,wifi_toggle_button;
+    protected Button open_wifi_button,close_wifi_button;
+    protected ToggleButton wifi_toggle_button;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -47,14 +49,12 @@ public class ActivityWifiControl extends AppCompatActivity implements EventListe
 
         open_wifi_button = (Button)findViewById(R.id.open_wifi);
         close_wifi_button = (Button)findViewById(R.id.close_wifi);
-        wifi_toggle_button = (Button)findViewById(R.id.wifiToggleButton);
+        wifi_toggle_button = (ToggleButton)findViewById(R.id.wifiToggleButton);
         open_wifi_button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 openWifi(context);//要将第三方设备与路由器对接
-
                 // 显示所有wifi
-
                 // 点击出现连接界面
                 // 使第三方硬件可连接wifi列表
                 // 再回来自己连接回路由器
@@ -67,12 +67,23 @@ public class ActivityWifiControl extends AppCompatActivity implements EventListe
                 closeWifi(context);
             }
         });
-<<<<<<< HEAD
         //wifi_toggle_button.setOnCheckedChangeListener(this);
-=======
         //wifi_toggle_button.setOnCheckedChangeListener
->>>>>>> bbff8c2d57b380f595cfc10d9dcb005f98498f9a
                 //http://blog.csdn.net/coder_pig/article/details/47035699
+
+        wifi_toggle_button = (ToggleButton) findViewById(R.id.wifiToggleButton);
+        wifi_toggle_button .setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener()
+        {
+            public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
+                if (isChecked) {
+                    wifiManager.setWifiEnabled(true);//打开wifi网卡
+                    Toast.makeText(context,"打开wifi",Toast.LENGTH_SHORT).show();
+                } else {
+                    wifiManager.setWifiEnabled(false);//关闭wifi网卡
+                    Toast.makeText(context,"关闭wifi",Toast.LENGTH_SHORT).show();
+                }
+            }
+        });
 
         //initView();
         //initPermission();//动态申请权限
@@ -103,12 +114,12 @@ public class ActivityWifiControl extends AppCompatActivity implements EventListe
 //        }
     }
 
-    //@Override
+//    @Override
 //    public void setOnCheckedChangeListener(CompoundButton compoundButton,boolean b){
 //        switch (compoundButton.getId()){
-//            case R.id.wifi_toggle_button:
-//                if(compoundButton.isChecked()) Toast.makeText(this,"打开声音",Toast.LENGTH_SHORT).show();
-//                else Toast.makeText(this,"打开声音",Toast.LENGTH_SHORT).show();
+//            case R.id.wifiToggleButton:
+//                if(compoundButton.isChecked()) Toast.makeText(this,"打开wifi",Toast.LENGTH_SHORT).show();
+//                else Toast.makeText(this,"关闭wifi",Toast.LENGTH_SHORT).show();
 //                break;
 ////            case R.id.swh_status:
 ////                if(compoundButton.isChecked()) Toast.makeText(this,"开关:ON",Toast.LENGTH_SHORT).show();
