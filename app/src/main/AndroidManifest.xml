@@ -164,6 +164,28 @@
         </activity>
 
         <activity
+            android:name="com.baidu.android.voicedemo.activity.ActivityHttpConnection"
+            android:configChanges="orientation|keyboardHidden|screenLayout"
+            android:label="Http连接"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="com.baidu.speech.recognizerdemo.intent.category.SAMPLE_CODE" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.baidu.android.voicedemo.activity.ActivitySocketConnect"
+            android:configChanges="orientation|keyboardHidden|screenLayout"
+            android:label="socket连接"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="com.baidu.speech.recognizerdemo.intent.category.SAMPLE_CODE" />
+            </intent-filter>
+        </activity>
+
+        <activity
             android:name="com.baidu.android.voicedemo.activity.setting.OnlineSetting"
             android:configChanges="orientation|keyboardHidden|screenLayout"
             android:label="在线识别设置"

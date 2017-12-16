@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:1:1-197:12
-INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml:1:1-197:12
-INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml:1:1-197:12
-INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml:1:1-197:12
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:1:1-219:12
+INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml:1:1-219:12
+INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml:1:1-219:12
+INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml:1:1-219:12
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a836f47d25685659ca3b02a8f124c463\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\dd9e542edfc440b978431801c200265b\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\d15b06100ec4518b04e8fc4d38538b3e\AndroidManifest.xml:17:1-28:12
@@ -13,9 +13,9 @@ MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administr
 MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6a84780e3a4744b579b1c7123e797d1e\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\7d8fd53c7c4d17efac632ecd3f49ca7e\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\96d52d9aebfba72a7c218b20c0ed4751\AndroidManifest.xml:17:1-31:12
-INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml:1:1-197:12
-INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml:1:1-197:12
-INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml:1:1-197:12
+INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml:1:1-219:12
+INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml:1:1-219:12
+INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml:1:1-219:12
 	package
 		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:2:5-46
 		INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml
@@ -129,7 +129,7 @@ ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:33:5-80
 	android:name
 		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:33:22-78
 application
-ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:36:5-196:19
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:36:5-218:19
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a836f47d25685659ca3b02a8f124c463\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a836f47d25685659ca3b02a8f124c463\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\dd9e542edfc440b978431801c200265b\AndroidManifest.xml:26:5-20
@@ -294,66 +294,86 @@ ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:155:9-164:20
 		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:157:13-76
 	android:name
 		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:156:13-84
-activity#com.baidu.android.voicedemo.activity.setting.OnlineSetting
-ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:166:9-171:61
+activity#com.baidu.android.voicedemo.activity.ActivityHttpConnection
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:166:9-175:20
 	android:screenOrientation
-		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:171:13-49
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:170:13-49
 	android:label
 		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:169:13-35
 	android:configChanges
 		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:168:13-76
-	android:theme
-		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:170:13-69
 	android:name
-		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:167:13-86
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:167:13-87
+activity#com.baidu.android.voicedemo.activity.ActivitySocketConnect
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:177:9-186:20
+	android:screenOrientation
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:181:13-49
+	android:label
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:180:13-37
+	android:configChanges
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:179:13-76
+	android:name
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:178:13-86
+activity#com.baidu.android.voicedemo.activity.setting.OnlineSetting
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:188:9-193:61
+	android:screenOrientation
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:193:13-49
+	android:label
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:191:13-35
+	android:configChanges
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:190:13-76
+	android:theme
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:192:13-69
+	android:name
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:189:13-86
 activity#com.baidu.android.voicedemo.activity.setting.OfflineSetting
-ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:172:9-177:61
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:194:9-199:61
 	android:screenOrientation
-		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:177:13-49
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:199:13-49
 	android:label
-		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:175:13-36
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:197:13-36
 	android:configChanges
-		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:174:13-76
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:196:13-76
 	android:theme
-		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:176:13-69
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:198:13-69
 	android:name
-		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:173:13-87
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:195:13-87
 activity#com.baidu.android.voicedemo.activity.setting.NluSetting
-ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:178:9-183:61
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:200:9-205:61
 	android:screenOrientation
-		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:183:13-49
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:205:13-49
 	android:label
-		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:181:13-33
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:203:13-33
 	android:configChanges
-		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:180:13-76
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:202:13-76
 	android:theme
-		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:182:13-69
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:204:13-69
 	android:name
-		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:179:13-83
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:201:13-83
 activity#com.baidu.android.voicedemo.activity.setting.AllSetting
-ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:184:9-189:61
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:206:9-211:61
 	android:screenOrientation
-		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:189:13-49
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:211:13-49
 	android:label
-		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:187:13-35
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:209:13-35
 	android:configChanges
-		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:186:13-76
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:208:13-76
 	android:theme
-		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:188:13-69
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:210:13-69
 	android:name
-		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:185:13-83
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:207:13-83
 activity#com.jerry.bluetooth.BluetoothActivity
-ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:190:9-195:61
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:212:9-217:61
 	android:screenOrientation
-		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:195:13-49
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:217:13-49
 	android:label
-		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:193:13-35
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:215:13-35
 	android:configChanges
-		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:192:13-76
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:214:13-76
 	android:theme
-		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:194:13-69
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:216:13-69
 	android:name
-		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:191:13-65
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:213:13-65
 meta-data#android.support.VERSION
 ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a836f47d25685659ca3b02a8f124c463\AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\dd9e542edfc440b978431801c200265b\AndroidManifest.xml:22:5-24:34

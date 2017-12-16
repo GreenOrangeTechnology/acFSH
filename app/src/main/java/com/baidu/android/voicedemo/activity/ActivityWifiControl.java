@@ -23,7 +23,7 @@ import com.jerry.bluetooth.MainActivity;
 import java.util.List;
 
 /**
- * Created by jkCodi on 2017/12/11.
+ * Created by jkCodic on 2017/12/11.
  */
 
 public class ActivityWifiControl extends AppCompatActivity implements EventListener {
@@ -41,7 +41,7 @@ public class ActivityWifiControl extends AppCompatActivity implements EventListe
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        requestWindowFeature(Window.FEATURE_NO_TITLE);//隐藏标题栏
+        requestWindowFeature(Window.FEATURE_NO_TITLE);//全局-隐藏标题栏
         setContentView(R.layout.wifi_control);
 
         wifiManager = (WifiManager)context.getSystemService(Context.WIFI_SERVICE);
