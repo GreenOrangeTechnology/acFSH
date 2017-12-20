@@ -40,6 +40,7 @@
         android:debuggable="true"
         android:icon="@drawable/ic_launcher2"
         android:label="@string/app_name"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
 
         <!--
@@ -174,6 +175,12 @@
             android:configChanges="orientation|keyboardHidden|screenLayout"
             android:label="Wifi控制"
             android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.baidu.android.voicedemo.activity.ActivityHttpConnection"
+            android:configChanges="orientation|keyboardHidden|screenLayout"
+            android:label="Http连接"
+            android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -181,9 +188,9 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.baidu.android.voicedemo.activity.ActivityHttpConnection"
+            android:name="com.baidu.android.voicedemo.activity.BluetoothActivity"
             android:configChanges="orientation|keyboardHidden|screenLayout"
-            android:label="Http连接"
+            android:label="蓝牙控制模块"
             android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -224,12 +231,6 @@
             android:name="com.baidu.android.voicedemo.activity.setting.AllSetting"
             android:configChanges="orientation|keyboardHidden|screenLayout"
             android:label="全部识别设置"
-            android:screenOrientation="portrait"
-            android:theme="@android:style/Theme.DeviceDefault.Light" />
-        <activity
-            android:name="com.jerry.bluetooth.BluetoothActivity"
-            android:configChanges="orientation|keyboardHidden|screenLayout"
-            android:label="蓝牙控制模块"
             android:screenOrientation="portrait"
             android:theme="@android:style/Theme.DeviceDefault.Light" />
     </application>

@@ -4,8 +4,28 @@
     android:layout_height="match_parent">
 
     <Button
-        android:id="@+id/bt_button"
-        android:layout_width="194dp"
+        android:id="@+id/open_bluetooth"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="打开蓝牙" />
+    <Button
+        android:id="@+id/search_bluetooth"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="搜索蓝牙" />
+    <Button
+        android:id="@+id/close_bluetooth"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="关闭蓝牙" />
+    <Button
+        android:id="@+id/send_command"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="发送指令" />
+    <EditText
+        android:id="@+id/command_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="请输入想要发送的内容"/>
 </LinearLayout>

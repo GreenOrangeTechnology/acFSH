@@ -6,23 +6,59 @@
     density="xxhdpi"
     format="10"
     plugin-version="3.0.1"
-    timestamp="1513131590263"
+    timestamp="1513779540105"
     token="-4869359857824358216"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="2256" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="1601" />
     <task
         name="verifier"
-        duration="0" />
+        duration="1026" />
 
+    <artifact
+        location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\outputs\apk\debug\app-debug.apk"
+        type="SPLIT_MAIN" />
     <artifact
         location="E:\github\acFSH\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
@@ -30,16 +66,7 @@
         location="E:\github\acFSH\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
         type="SPLIT" />
     <artifact
-        location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
-        type="SPLIT" />
-    <artifact
         location="E:\github\acFSH\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
         type="SPLIT" />
     <artifact
         location="E:\github\acFSH\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
@@ -48,22 +75,10 @@
         location="E:\github\acFSH\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
         type="SPLIT" />
     <artifact
-        location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-        type="SPLIT" />
-    <artifact
         location="E:\github\acFSH\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
         type="SPLIT" />
     <artifact
         location="E:\github\acFSH\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
         type="SPLIT" />
     <artifact
         location="E:\github\acFSH\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
@@ -75,28 +90,49 @@
         location="E:\github\acFSH\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
         type="SPLIT" />
     <artifact
-        location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-        type="SPLIT" />
-    <artifact
         location="E:\github\acFSH\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
         type="SPLIT" />
-    <artifact
-        location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\github\acFSH\app\build\outputs\apk\debug\app-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1513131590263"
+        timestamp="1513779540105"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\outputs\apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
         <artifact
             location="E:\github\acFSH\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
@@ -104,16 +140,7 @@
             location="E:\github\acFSH\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
-            type="SPLIT" />
-        <artifact
             location="E:\github\acFSH\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
             location="E:\github\acFSH\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
@@ -122,22 +149,10 @@
             location="E:\github\acFSH\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
             location="E:\github\acFSH\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
             location="E:\github\acFSH\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
             location="E:\github\acFSH\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
@@ -149,23 +164,8 @@
             location="E:\github\acFSH\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-            type="SPLIT" />
-        <artifact
             location="E:\github\acFSH\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
-        <artifact
-            location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\github\acFSH\app\build\outputs\apk\debug\app-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

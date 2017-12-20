@@ -1340,6 +1340,10 @@
         "source": "C:\\Users\\Jerry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\eed879681f595222fc5cc7b6c00fa7d4\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
+        "merged": "D:\\Share\\bd_speech_sdk_asr_v3.0.3.20170801_60da871\\app\\build\\intermediates\\res\\merged\\debug\\layout_http_connect.xml.flat",
+        "source": "D:\\Share\\bd_speech_sdk_asr_v3.0.3.20170801_60da871\\app\\src\\main\\res\\layout\\http_connect.xml"
+    },
+    {
         "merged": "D:\\Share\\bd_speech_sdk_asr_v3.0.3.20170801_60da871\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "C:\\Users\\Jerry\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\eed879681f595222fc5cc7b6c00fa7d4\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
@@ -3498,6 +3502,10 @@
     {
         "merged": "E:\\github\\acFSH\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a836f47d25685659ca3b02a8f124c463\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Share\\bd_speech_sdk_asr_v3.0.3.20170801_60da871\\app\\build\\intermediates\\res\\merged\\debug\\layout_socket_connect.xml.flat",
+        "source": "D:\\Share\\bd_speech_sdk_asr_v3.0.3.20170801_60da871\\app\\src\\main\\res\\layout\\socket_connect.xml"
     },
     {
         "merged": "D:\\Share\\bd_speech_sdk_asr_v3.0.3.20170801_60da871\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",

@@ -18,8 +18,6 @@ import android.widget.ToggleButton;
 
 import com.baidu.speech.EventListener;
 import com.baidu.speech.recognizerdemo.R;
-import com.jerry.bluetooth.MainActivity;
-
 import java.util.List;
 
 /**
