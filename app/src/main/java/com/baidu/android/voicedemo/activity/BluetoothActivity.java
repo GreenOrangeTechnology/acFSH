@@ -1,22 +1,19 @@
-package com.jerry.bluetooth;
+package com.baidu.android.voicedemo.activity;
 
 import android.bluetooth.BluetoothAdapter;
-import android.bluetooth.BluetoothDevice;
-import android.bluetooth.BluetoothManager;
-import android.content.Context;
-import android.content.Intent;
-import android.util.Log;
-
-import java.util.UUID;
-
-import static com.baidu.speech.core.LogUtil.TAG;
+import android.support.v7.app.AppCompatActivity;
 
 /**
- * Created by Jerry on 2017-10-29.
- * bluetooth manage page-model of smartHome bluetooth controller
+ * Created by Jerry on 2017-10-30.
  */
 
-public class MainActivity {
+public class BluetoothActivity extends AppCompatActivity {
+    //跳转到不同的activity
+//    Intent intent = new Intent();
+//    // intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+//        intent.setClass(this, JniActivity.class);
+//    startActivity(intent);
+
     //调用BluetoothAdapter进行蓝牙打开操作
     BluetoothAdapter mBluetoothAdapter = BluetoothAdapter.getDefaultAdapter();
 
@@ -66,7 +63,5 @@ public class MainActivity {
             discoverableIntent.putExtra(
                     BluetoothAdapter.EXTRA_DISCOVERABLE_DURATION, 300);//设置被发现时间 在300秒内
             startActivity(discoverableIntent);*/
-        }
+    }
 }
-
-

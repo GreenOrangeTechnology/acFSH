@@ -22,5 +22,6 @@ dependencies {
     //compile 'com.android.support:support-v4:19.1.0'
     compile fileTree(exclude: '*.bak', dir: 'libs')
     compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'org.xutils:xutils:3.3.36'
     testCompile 'junit:junit:4.12'
 }

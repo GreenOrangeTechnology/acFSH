@@ -6,7 +6,7 @@
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="输入地址和端口"
+        android:hint="请输入内容"
         android:id="@+id/editText"
         />
 
@@ -17,17 +17,28 @@
         android:text="建立连接" />
 
     <Button
+        android:id="@+id/sendMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="发送消息" />
+
+    <Button
+        android:id="@+id/receive"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="获取消息" />
+
+    <Button
         android:id="@+id/disConnect"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="断开连接" />
 
-
     <TextView
         android:id="@+id/returnShow"
         android:layout_width="149dp"
         android:layout_height="88dp"
-        android:text="服务端返回信息" />
+        android:text="返回信息区域" />
 
 
 

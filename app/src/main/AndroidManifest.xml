@@ -210,7 +210,7 @@
             android:theme="@android:style/Theme.DeviceDefault.Light"
             android:screenOrientation="portrait"></activity>
         <activity
-            android:name="com.jerry.bluetooth.BluetoothActivity"
+            android:name="com.baidu.android.voicedemo.activity.BluetoothActivity"
             android:configChanges="orientation|keyboardHidden|screenLayout"
             android:label="蓝牙控制模块"
             android:theme="@android:style/Theme.DeviceDefault.Light"

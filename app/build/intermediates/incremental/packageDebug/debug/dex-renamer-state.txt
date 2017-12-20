@@ -1,4 +1,4 @@
-#Fri Dec 15 11:34:11 CST 2017
+#Sun Dec 17 23:45:14 CST 2017
 base.0=E\:\\github\\acFSH\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\24
 path.0=classes.dex
 renamed.0=classes.dex

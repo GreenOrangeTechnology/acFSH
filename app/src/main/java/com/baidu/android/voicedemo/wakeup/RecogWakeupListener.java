@@ -9,11 +9,8 @@ import com.baidu.android.voicedemo.recognization.IStatus;
  */
 
 public class RecogWakeupListener extends SimpleWakeupListener implements IStatus {
-
     private static final String TAG = "RecogWakeupListener";
-
     private Handler handler;
-
     public RecogWakeupListener(Handler handler) {
         this.handler = handler;
     }
