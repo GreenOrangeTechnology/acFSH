@@ -1,396 +1,396 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:1:1-221:12
-INJECTED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:1:1-221:12
-INJECTED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:1:1-221:12
-INJECTED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:1:1-221:12
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\eed879681f595222fc5cc7b6c00fa7d4\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\d1127879b708d0af56d902aaa8a9bd95\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\cef542e589f658dad7daa47562bb1419\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\f046c71a201ada7994e95e3238dfe929\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e62d613a5acf901f33b8824f0d146871\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\bd3e6af16f072ecc2a3100e8e5a850ff\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\f42c3d7ba33eeae543ad7a85af608dc1\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\9358ef601cc93d4b453c3c6ae3950c33\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\018bdb962c060c2839e5e7da267084dd\AndroidManifest.xml:17:1-31:12
-INJECTED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:1:1-221:12
-INJECTED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:1:1-221:12
-INJECTED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:1:1-221:12
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:1:1-221:12
+INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml:1:1-221:12
+INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml:1:1-221:12
+INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml:1:1-221:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a836f47d25685659ca3b02a8f124c463\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\dd9e542edfc440b978431801c200265b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\d15b06100ec4518b04e8fc4d38538b3e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\07fff6a023bd2435c574df276d8e7135\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\14ebce8f1fe5ed73e233fe5d77d0af27\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\08adf96747508cda2ba646a3e6be3894\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6a84780e3a4744b579b1c7123e797d1e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\7d8fd53c7c4d17efac632ecd3f49ca7e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\96d52d9aebfba72a7c218b20c0ed4751\AndroidManifest.xml:17:1-31:12
+INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml:1:1-221:12
+INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml:1:1-221:12
+INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml:1:1-221:12
 	package
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:2:5-46
-		INJECTED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:2:5-46
+		INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml
+		INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:4:5-30
-		INJECTED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml
+		INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:1:11-69
 	android:versionCode
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:3:5-28
-		INJECTED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml
+		INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml
 uses-sdk
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:6:5-8:41
-INJECTED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:6:5-8:41
-INJECTED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:6:5-8:41
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\eed879681f595222fc5cc7b6c00fa7d4\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\eed879681f595222fc5cc7b6c00fa7d4\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\d1127879b708d0af56d902aaa8a9bd95\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\d1127879b708d0af56d902aaa8a9bd95\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\cef542e589f658dad7daa47562bb1419\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\cef542e589f658dad7daa47562bb1419\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\f046c71a201ada7994e95e3238dfe929\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\f046c71a201ada7994e95e3238dfe929\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e62d613a5acf901f33b8824f0d146871\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e62d613a5acf901f33b8824f0d146871\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\bd3e6af16f072ecc2a3100e8e5a850ff\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\bd3e6af16f072ecc2a3100e8e5a850ff\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\f42c3d7ba33eeae543ad7a85af608dc1\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\f42c3d7ba33eeae543ad7a85af608dc1\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\9358ef601cc93d4b453c3c6ae3950c33\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\9358ef601cc93d4b453c3c6ae3950c33\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\018bdb962c060c2839e5e7da267084dd\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\018bdb962c060c2839e5e7da267084dd\AndroidManifest.xml:21:5-23:58
-INJECTED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:6:5-8:41
-INJECTED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:6:5-8:41
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a836f47d25685659ca3b02a8f124c463\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a836f47d25685659ca3b02a8f124c463\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\dd9e542edfc440b978431801c200265b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\dd9e542edfc440b978431801c200265b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\d15b06100ec4518b04e8fc4d38538b3e\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\d15b06100ec4518b04e8fc4d38538b3e\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\07fff6a023bd2435c574df276d8e7135\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\07fff6a023bd2435c574df276d8e7135\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\14ebce8f1fe5ed73e233fe5d77d0af27\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\14ebce8f1fe5ed73e233fe5d77d0af27\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\08adf96747508cda2ba646a3e6be3894\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\08adf96747508cda2ba646a3e6be3894\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6a84780e3a4744b579b1c7123e797d1e\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6a84780e3a4744b579b1c7123e797d1e\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\7d8fd53c7c4d17efac632ecd3f49ca7e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\7d8fd53c7c4d17efac632ecd3f49ca7e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\96d52d9aebfba72a7c218b20c0ed4751\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\96d52d9aebfba72a7c218b20c0ed4751\AndroidManifest.xml:21:5-23:58
+INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml:6:5-8:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\eed879681f595222fc5cc7b6c00fa7d4\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a836f47d25685659ca3b02a8f124c463\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:8:9-38
-		INJECTED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml
+		INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:7:9-35
-		INJECTED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:7:9-35
+		INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml
+		INJECTED from E:\github\acFSH\app\src\main\AndroidManifest.xml
 instrumentation
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:10:5-13:67
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:10:5-13:67
 	android:label
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:12:9-66
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:12:9-66
 	android:targetPackage
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:13:9-64
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:13:9-64
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:11:9-62
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:11:9-62
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:16:5-79
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:16:5-79
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:16:22-76
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:16:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:17:5-76
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:17:5-76
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:17:22-73
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:17:22-73
 uses-permission#android.permission.CHANGE_NETWORK_STATE
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:18:5-79
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:18:5-79
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:18:22-76
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:18:22-76
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:19:5-76
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:19:5-76
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:19:22-73
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:19:22-73
 uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:20:5-86
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:20:5-86
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:20:22-83
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:20:22-83
 uses-permission#android.permission.WAKE_LOCK
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:21:5-68
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:21:5-68
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:21:22-65
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:21:22-65
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:23:5-71
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:23:5-71
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:23:22-68
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:23:22-68
 uses-permission#android.permission.INTERNET
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:25:5-67
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:25:5-67
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:25:22-64
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:25:22-64
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:26:5-75
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:26:5-75
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:26:22-72
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:26:22-72
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:27:5-81
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:27:5-81
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:27:22-78
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:27:22-78
 uses-permission#android.permission.BLUETOOTH
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:29:5-67
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:29:5-67
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:29:22-65
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:29:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:30:5-73
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:30:5-73
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:30:22-71
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:30:22-71
 uses-feature#android.hardware.location.gps
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:32:5-66
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:32:5-66
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:32:19-63
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:32:19-63
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:33:5-80
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:33:5-80
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:33:22-78
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:33:22-78
 application
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:36:5-220:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\eed879681f595222fc5cc7b6c00fa7d4\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\eed879681f595222fc5cc7b6c00fa7d4\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\d1127879b708d0af56d902aaa8a9bd95\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\d1127879b708d0af56d902aaa8a9bd95\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\cef542e589f658dad7daa47562bb1419\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\cef542e589f658dad7daa47562bb1419\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\f046c71a201ada7994e95e3238dfe929\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\f046c71a201ada7994e95e3238dfe929\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e62d613a5acf901f33b8824f0d146871\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e62d613a5acf901f33b8824f0d146871\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\bd3e6af16f072ecc2a3100e8e5a850ff\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\bd3e6af16f072ecc2a3100e8e5a850ff\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\f42c3d7ba33eeae543ad7a85af608dc1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\f42c3d7ba33eeae543ad7a85af608dc1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\9358ef601cc93d4b453c3c6ae3950c33\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\9358ef601cc93d4b453c3c6ae3950c33\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\018bdb962c060c2839e5e7da267084dd\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\018bdb962c060c2839e5e7da267084dd\AndroidManifest.xml:29:5-20
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:36:5-220:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a836f47d25685659ca3b02a8f124c463\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a836f47d25685659ca3b02a8f124c463\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\dd9e542edfc440b978431801c200265b\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\dd9e542edfc440b978431801c200265b\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\d15b06100ec4518b04e8fc4d38538b3e\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\d15b06100ec4518b04e8fc4d38538b3e\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\07fff6a023bd2435c574df276d8e7135\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\07fff6a023bd2435c574df276d8e7135\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\14ebce8f1fe5ed73e233fe5d77d0af27\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\14ebce8f1fe5ed73e233fe5d77d0af27\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\08adf96747508cda2ba646a3e6be3894\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\08adf96747508cda2ba646a3e6be3894\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6a84780e3a4744b579b1c7123e797d1e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6a84780e3a4744b579b1c7123e797d1e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\7d8fd53c7c4d17efac632ecd3f49ca7e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\7d8fd53c7c4d17efac632ecd3f49ca7e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\96d52d9aebfba72a7c218b20c0ed4751\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\96d52d9aebfba72a7c218b20c0ed4751\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:38:9-41
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:38:9-41
 	android:icon
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:37:9-46
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:37:9-46
 	android:theme
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:39:9-40
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:39:9-40
 meta-data#com.baidu.speech.APP_ID
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:49:9-51:40
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:49:9-51:40
 	android:value
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:51:13-37
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:51:13-37
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:50:13-51
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:50:13-51
 meta-data#com.baidu.speech.API_KEY
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:55:9-57:56
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:55:9-57:56
 	android:value
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:57:13-53
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:57:13-53
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:56:13-52
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:56:13-52
 meta-data#com.baidu.speech.SECRET_KEY
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:58:9-60:64
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:58:9-60:64
 	android:value
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:60:13-61
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:60:13-61
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:59:13-55
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:59:13-55
 service#com.baidu.speech.VoiceRecognitionService
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:61:9-63:40
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:61:9-63:40
 	android:exported
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:63:13-37
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:63:13-37
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:62:13-68
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:62:13-68
 activity#com.baidu.android.voicedemo.activity.ActivityMain
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:64:9-73:20
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:64:9-73:20
 	android:screenOrientation
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:67:13-49
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:67:13-49
 	android:configChanges
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:66:13-76
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:66:13-76
 	android:theme
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:68:13-69
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:68:13-69
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:65:13-77
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:65:13-77
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:69:13-72:29
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:69:13-72:29
 action#android.intent.action.MAIN
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:70:17-69
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:70:17-69
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:70:25-66
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:70:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:71:17-77
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:71:17-77
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:71:27-74
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:71:27-74
 activity#com.baidu.android.voicedemo.activity.ActivityOnline
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:74:9-83:20
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:74:9-83:20
 	android:screenOrientation
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:78:13-49
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:78:13-49
 	android:label
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:77:13-33
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:77:13-33
 	android:configChanges
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:76:13-76
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:76:13-76
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:75:13-79
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:75:13-79
 intent-filter#android.intent.action.MAIN+com.baidu.speech.recognizerdemo.intent.category.SAMPLE_CODE
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:79:13-82:29
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:79:13-82:29
 category#com.baidu.speech.recognizerdemo.intent.category.SAMPLE_CODE
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:81:17-104
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:81:17-104
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:81:27-101
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:81:27-101
 activity#com.baidu.android.voicedemo.activity.ActivityOffline
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:84:9-93:20
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:84:9-93:20
 	android:screenOrientation
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:88:13-49
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:88:13-49
 	android:label
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:87:13-34
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:87:13-34
 	android:configChanges
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:86:13-76
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:86:13-76
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:85:13-80
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:85:13-80
 activity#com.baidu.android.voicedemo.activity.ActivityNlu
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:94:9-103:20
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:94:9-103:20
 	android:screenOrientation
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:98:13-49
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:98:13-49
 	android:label
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:97:13-40
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:97:13-40
 	android:configChanges
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:96:13-76
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:96:13-76
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:95:13-76
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:95:13-76
 activity#com.baidu.android.voicedemo.activity.ActivityAllRecog
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:104:9-113:20
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:104:9-113:20
 	android:screenOrientation
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:108:13-49
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:108:13-49
 	android:label
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:107:13-35
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:107:13-35
 	android:configChanges
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:106:13-76
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:106:13-76
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:105:13-81
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:105:13-81
 activity#com.baidu.android.voicedemo.activity.ActivityWakeUp
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:114:9-123:20
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:114:9-123:20
 	android:screenOrientation
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:118:13-49
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:118:13-49
 	android:label
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:117:13-32
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:117:13-32
 	android:configChanges
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:116:13-76
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:116:13-76
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:115:13-79
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:115:13-79
 activity#com.baidu.android.voicedemo.activity.ActivityWakeUpRecog
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:124:9-133:20
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:124:9-133:20
 	android:screenOrientation
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:128:13-49
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:128:13-49
 	android:label
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:127:13-34
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:127:13-34
 	android:configChanges
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:126:13-76
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:126:13-76
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:125:13-84
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:125:13-84
 activity#com.baidu.android.voicedemo.activity.mini.ActivityMiniRecog
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:134:9-143:20
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:134:9-143:20
 	android:screenOrientation
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:138:13-49
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:138:13-49
 	android:label
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:137:13-34
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:137:13-34
 	android:configChanges
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:136:13-76
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:136:13-76
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:135:13-87
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:135:13-87
 activity#com.baidu.android.voicedemo.activity.mini.ActivityMiniWakeUp
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:144:9-153:20
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:144:9-153:20
 	android:screenOrientation
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:148:13-49
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:148:13-49
 	android:label
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:147:13-35
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:147:13-35
 	android:configChanges
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:146:13-76
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:146:13-76
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:145:13-88
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:145:13-88
 activity#com.baidu.android.voicedemo.activity.ActivityWifiControl
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:155:9-160:20
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:155:9-160:20
 	android:screenOrientation
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:159:13-49
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:159:13-49
 	android:label
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:158:13-35
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:158:13-35
 	android:configChanges
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:157:13-76
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:157:13-76
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:156:13-84
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:156:13-84
 activity#com.baidu.android.voicedemo.activity.ActivityHttpConnection
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:162:9-171:20
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:162:9-171:20
 	android:screenOrientation
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:166:13-49
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:166:13-49
 	android:label
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:165:13-35
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:165:13-35
 	android:configChanges
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:164:13-76
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:164:13-76
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:163:13-87
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:163:13-87
 activity#com.baidu.android.voicedemo.activity.BluetoothActivity
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:173:9-182:20
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:173:9-182:20
 	android:screenOrientation
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:177:13-49
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:177:13-49
 	android:label
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:176:13-35
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:176:13-35
 	android:configChanges
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:175:13-76
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:175:13-76
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:174:13-82
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:174:13-82
 activity#com.baidu.android.voicedemo.activity.ActivitySocketConnect
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:184:9-193:20
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:184:9-193:20
 	android:screenOrientation
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:188:13-49
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:188:13-49
 	android:label
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:187:13-37
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:187:13-37
 	android:configChanges
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:186:13-76
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:186:13-76
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:185:13-86
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:185:13-86
 activity#com.baidu.android.voicedemo.activity.setting.OnlineSetting
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:195:9-200:61
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:195:9-200:61
 	android:screenOrientation
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:200:13-49
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:200:13-49
 	android:label
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:198:13-35
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:198:13-35
 	android:configChanges
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:197:13-76
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:197:13-76
 	android:theme
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:199:13-69
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:199:13-69
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:196:13-86
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:196:13-86
 activity#com.baidu.android.voicedemo.activity.setting.OfflineSetting
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:201:9-206:61
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:201:9-206:61
 	android:screenOrientation
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:206:13-49
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:206:13-49
 	android:label
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:204:13-36
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:204:13-36
 	android:configChanges
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:203:13-76
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:203:13-76
 	android:theme
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:205:13-69
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:205:13-69
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:202:13-87
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:202:13-87
 activity#com.baidu.android.voicedemo.activity.setting.NluSetting
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:207:9-212:61
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:207:9-212:61
 	android:screenOrientation
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:212:13-49
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:212:13-49
 	android:label
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:210:13-33
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:210:13-33
 	android:configChanges
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:209:13-76
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:209:13-76
 	android:theme
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:211:13-69
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:211:13-69
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:208:13-83
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:208:13-83
 activity#com.baidu.android.voicedemo.activity.setting.AllSetting
-ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:213:9-218:61
+ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:213:9-218:61
 	android:screenOrientation
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:218:13-49
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:218:13-49
 	android:label
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:216:13-35
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:216:13-35
 	android:configChanges
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:215:13-76
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:215:13-76
 	android:theme
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:217:13-69
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:217:13-69
 	android:name
-		ADDED from D:\Share\bd_speech_sdk_asr_v3.0.3.20170801_60da871\app\src\main\AndroidManifest.xml:214:13-83
+		ADDED from E:\github\acFSH\app\src\main\AndroidManifest.xml:214:13-83
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\eed879681f595222fc5cc7b6c00fa7d4\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\d1127879b708d0af56d902aaa8a9bd95\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\d1127879b708d0af56d902aaa8a9bd95\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\cef542e589f658dad7daa47562bb1419\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\cef542e589f658dad7daa47562bb1419\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\f046c71a201ada7994e95e3238dfe929\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\f046c71a201ada7994e95e3238dfe929\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e62d613a5acf901f33b8824f0d146871\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e62d613a5acf901f33b8824f0d146871\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\bd3e6af16f072ecc2a3100e8e5a850ff\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\bd3e6af16f072ecc2a3100e8e5a850ff\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\f42c3d7ba33eeae543ad7a85af608dc1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\f42c3d7ba33eeae543ad7a85af608dc1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\9358ef601cc93d4b453c3c6ae3950c33\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\9358ef601cc93d4b453c3c6ae3950c33\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\018bdb962c060c2839e5e7da267084dd\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\018bdb962c060c2839e5e7da267084dd\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a836f47d25685659ca3b02a8f124c463\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\dd9e542edfc440b978431801c200265b\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\dd9e542edfc440b978431801c200265b\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\d15b06100ec4518b04e8fc4d38538b3e\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\d15b06100ec4518b04e8fc4d38538b3e\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\07fff6a023bd2435c574df276d8e7135\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\07fff6a023bd2435c574df276d8e7135\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\14ebce8f1fe5ed73e233fe5d77d0af27\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\14ebce8f1fe5ed73e233fe5d77d0af27\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\08adf96747508cda2ba646a3e6be3894\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\08adf96747508cda2ba646a3e6be3894\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6a84780e3a4744b579b1c7123e797d1e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6a84780e3a4744b579b1c7123e797d1e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\7d8fd53c7c4d17efac632ecd3f49ca7e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\7d8fd53c7c4d17efac632ecd3f49ca7e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\96d52d9aebfba72a7c218b20c0ed4751\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\96d52d9aebfba72a7c218b20c0ed4751\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\eed879681f595222fc5cc7b6c00fa7d4\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a836f47d25685659ca3b02a8f124c463\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Jerry\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\eed879681f595222fc5cc7b6c00fa7d4\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a836f47d25685659ca3b02a8f124c463\AndroidManifest.xml:26:9-47
